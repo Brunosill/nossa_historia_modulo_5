@@ -6,23 +6,18 @@
 
   
 
-Projeto desenvolvido no final do Módulo 5 do curso Data Analytics, da Resilia Educação, Turma 20. Este projeto foi desenvolvido pelo Squad 5, composto pelas estudantes:
+Projeto desenvolvido no final do Módulo 5 do curso Data Analytics, da Resilia Educação, Turma 20. Este projeto foi desenvolvido pelo Squad 5, composto pelos estudantes:
 
- - Bárbara de Avelar Ferraz Prins: Gestor(a) do Conhecimento;
-![Bárbara de Avelar Ferraz Prins](https://i.imgur.com/9cr60nd.png) [LinkedIn](https://www.linkedin.com/in/barbara-avelar/)
+![Grupo5](https://i.imgur.com/t2D1vob.png)
+ - Bárbara de Avelar Ferraz Prins: Gestor(a) do Conhecimento; [LinkedIn](https://www.linkedin.com/in/barbara-avelar/)
 
- - Bruno Guedes da Silva: Co-facilitador(a);
-![Bruno Guedes da Silva](https://i.imgur.com/LYBsLnL.png) [LinkedIn](https://www.linkedin.com/in/brunoguedesdsilva/)
+ - Bruno Guedes da Silva: Co-facilitador(a); [LinkedIn](https://www.linkedin.com/in/brunoguedesdsilva/)
 
-- Karoline Juliana da Silva: Gestor(a) de Gente e Engajamento;
-![Karoline Juliana da Silva](https://i.imgur.com/ARTB2tu.png) [LinkedIn](https://www.linkedin.com/in/kjcsilva/)
-  
+- Karoline Juliana da Silva: Gestor(a) de Gente e Engajamento; [LinkedIn ](https://www.linkedin.com/in/kjcsilva/)
 
-- Pedro Rocha Campos: Colaborador(a) I;
-![enter image description here](https://i.imgur.com/KZL9Vyw.png) [LinkedIn](https://www.linkedin.com/in/pedrorcampos/)
+- Pedro Rocha Campos: Colaborador(a) I; [LinkedIn](https://www.linkedin.com/in/pedrorcampos/)
 
-- Janayna Kelly Silva de Souza: Colaborador(a) II;
-![enter image description here](https://i.imgur.com/8Zj7kVy.png) [LinkedIn](https://www.linkedin.com/in/camargo-laura/)
+- Janayna Kelly Silva de Souza: Colaborador(a) II; [LinkedIn](https://www.linkedin.com/in/camargo-laura/)
   
 ---
 ### Descrição do projeto ✏️:
