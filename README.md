@@ -1,5 +1,6 @@
 
 
+
 # <font  color="#DAA520">Resilia - Data Analytics: Módulo 5</font>
 
 ### Objetivo do Projeto 🎯:
@@ -15,9 +16,10 @@ Projeto desenvolvido no final do Módulo 5 do curso Data Analytics, da Resilia E
 
 - Karoline Juliana da Silva: Gestor(a) de Gente e Engajamento; [LinkedIn ](https://www.linkedin.com/in/kjcsilva/)
 
+- Laura Camargo: Colaborador(a) II; [LinkedIn](https://www.linkedin.com/in/camargo-laura/)
+
 - Pedro Rocha Campos: Colaborador(a) I; [LinkedIn](https://www.linkedin.com/in/pedrorcampos/)
 
-- Laura Camargo: Colaborador(a) II; [LinkedIn](https://www.linkedin.com/in/camargo-laura/)
   
 ---
 ### Descrição do projeto ✏️:
@@ -47,15 +49,19 @@ Devemos montar uma apresentação com storytelling sobre onde constem os seguint
 
 - **Estrutura do Power BI:**
 
-![Estrutura do Google Colab.](https://github.com/amoralles/ProjetoFinal_M4/blob/main/images/estrutura.png?raw=true)
+![Estrutura do Power BI.](https://cdn.discordapp.com/attachments/1030185580748886111/1040372367949561876/Screenshot_5.png)
 
 - **Criação:**
 	- Para a **Criação do nosso Dashboard** e identificação de fontes em comum, utilizamos como bases de dados o **<font  color="#a83246">CodeWars</font>, o <font  color="#DAA520">Portal Resilia</font>, o <font  color="#325da8">Linkedin</font>, o <font  color="#2dba4e">Github</font> e outros cursos** que fizemos ao longo da nossa jornada na área.
 
+- **Divisão do dash:**
+	- Na primeira parte, temos a apresentação do candidato, com a Bio, telefone para contato, email e uma linha do tempo com suas principais conquistas.
+	- Na segunda divisória, é apresentado de forma interativa as habilidades do candidato, com categorias clicáveis e um gráfico das habilidades desenvolvidas na Resilia e algumas extras, escolhidas pelo candidato.
+	- Na terceira parte, temos os certificados do candidato, que também podem ser vistas de forma interativa. São disponibilizadas também as redes sociais e a cidade onde reside no momento.
+
 - **Planejamento:**
 	- Conseguimos organizar as funções de cada integrante de acordo com suas afinidades, e cada integrante pôde contribuir livremente com o que melhor se encaixava em suas habilidades, mas de forma compartilhada, de forma em que todos contribuíssem com opiniões e debates sobre as etapas. Em cada etapa, buscamos conciliar os estudos e trabalhos dos integrantes com a entrega, o que fez com que parte do trabalho tivesse que ser realizada de maneira assíncrona.
-		- **Vantagens:**
-			- Com a **assincronia**, tivemos que manter uma conversação constante com os membros do grupo, de modo a estarmos sempre atualizados sobre os tópicos construídos. 
+	- Com a **assincronia**, tivemos que manter uma conversação constante com os membros do grupo, de modo a estarmos sempre atualizados sobre os tópicos construídos. 
 
 ---
 ### Apresentação ✨:
