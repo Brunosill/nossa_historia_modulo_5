@@ -17,7 +17,7 @@ Projeto desenvolvido no final do Módulo 5 do curso Data Analytics, da Resilia E
 
 - Pedro Rocha Campos: Colaborador(a) I; [LinkedIn](https://www.linkedin.com/in/pedrorcampos/)
 
-- Janayna Kelly Silva de Souza: Colaborador(a) II; [LinkedIn](https://www.linkedin.com/in/camargo-laura/)
+- Laura Camargo: Colaborador(a) II; [LinkedIn](https://www.linkedin.com/in/camargo-laura/)
   
 ---
 ### Descrição do projeto ✏️:
